@@ -1,7 +1,7 @@
 <?php 
 
 namespace HelloWorld;
-//class
+//a class
 class SayHello
 {
     public static function world()
